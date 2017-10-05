@@ -7,4 +7,8 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'app';
+
+  openDialog(): void {
+    // todo: open md-dialog
+  }
 }
